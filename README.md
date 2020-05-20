@@ -8,6 +8,8 @@ Speed controlled scroll to top button.
 
 ### CDN
 
+Powered by [jsDelivr](https://www.jsdelivr.com/).
+
 ```html
 <!-- Put in between head tags. -->
 
