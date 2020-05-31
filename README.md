@@ -14,7 +14,7 @@ Powered by [jsDelivr](https://www.jsdelivr.com/).
 <!-- Put in between head tags. -->
 
 <!-- Load the CSS. -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.0.0/dist/cme-to-top-button.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.1.0/dist/cme-to-top-button.min.css">
 
 <!-- Put just before the closing body tag. -->
 
@@ -23,10 +23,14 @@ Powered by [jsDelivr](https://www.jsdelivr.com/).
 
     Call the main function passing the timing in milliseconds.
 -->
+<button onclick="cmeToTopButton.scrollToTop(1200)" id="cme_toTopBut" title="Go to top">&#8593;</button>
+
+<!-- This method is deprecated in version 1.1.0. 
 <button onclick="cme_scrollToTop(1200)" id="cme_toTopBut" title="Go to top">&#8593;</button>
+-->
 
 <!-- Load the JavaScript. -->
-<script src="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.0.0/dist/cme-to-top-button.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.1.0/dist/cme-to-top-button.min.js"></script>
 ```
 
 See the [sample file](index.html).
