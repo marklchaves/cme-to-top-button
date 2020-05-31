@@ -6,16 +6,18 @@ Speed controlled scroll to top button.
 
 ## Usage
 
-### CDN
-
-Powered by [jsDelivr](https://www.jsdelivr.com/).
+### Include the CSS Library
 
 ```html
 <!-- Put in between head tags. -->
 
 <!-- Load the CSS. -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.1.0/dist/cme-to-top-button.min.css">
+```
 
+### Declare the Button &amp; Include the JS Library
+
+```html
 <!-- Put just before the closing body tag. -->
 
 <!-- 
@@ -34,6 +36,12 @@ Powered by [jsDelivr](https://www.jsdelivr.com/).
 ```
 
 See the [sample file](index.html).
+
+---
+
+## CDN
+
+Powered by [jsDelivr](https://www.jsdelivr.com/).
 
 ---
 
