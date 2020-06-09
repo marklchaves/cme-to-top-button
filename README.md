@@ -33,6 +33,9 @@ Speed controlled scroll to top button.
 
 <!-- Load the JavaScript. -->
 <script src="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button@1.1.0/dist/cme-to-top-button.min.js"></script>
+
+<!-- Or, for the latest, and if old cached versions are an issue. -->
+<script src="https://cdn.jsdelivr.net/gh/marklchaves/cme-to-top-button/src/cme-to-top-button.min.js"></script>
 ```
 
 See the [sample file](index.html).
